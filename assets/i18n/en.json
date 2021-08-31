@@ -1,0 +1,34 @@
+{
+  "blogWidget": {
+    "articleButton": "Read"
+  },
+  "homeWidget": {
+    "widgetTitle": "DJ - Somos Todos Nós",
+    "blogWidget": "Blog",
+    "bibleWidget": "Bible",
+    "mediaWidget": "Media",
+    "infoWidget": "Info"
+  },
+  "infoWidget": {
+    "labelTitleSettings": "Settings",
+    "labelSubtitleSettings": "Change preferences",
+    "labelTitleAbout": "About",
+    "aboutDialogText": "This app was designed to be the hub of Departamento da Juventude.\n\nProvided to you by"
+  },
+  "mediaWidget": {
+    "moviesButton": "Trailer",
+    "musicsButton": "Listen",
+    "booksButton": "Info"
+  },
+  "settingsWidget": {
+    "widgetTitle": "Settings",
+    "appearanceSectionTitle": "Appearance",
+    "appThemeSettings": "App theme",
+    "optionSystem": "System",
+    "optionLight": "Light",
+    "optionDark": "Dark",
+    "languageSettings": "Language",
+    "optionEnglish": "English",
+    "optionPortuguese": "Portuguese"
+  }
+}

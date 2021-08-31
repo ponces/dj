@@ -1,0 +1,47 @@
+name: dj
+description: DJ
+author: Alberto Ponces <ponces26@gmail.com>
+homepage: https://github.com/ponces/dj
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  dynamic_themes: ^1.1.0
+  flutter:
+    sdk: flutter
+  flutter_i18n: ^0.22.4
+  getwidget: ^2.0.4
+  package_info_plus: ^1.0.4
+  page_transition: ^2.0.2
+  shared_preferences: ^2.0.6
+  splashscreen:
+    git:
+      url: git://github.com/DPLYR-dev/SplashScreenFlutterPackage.git
+  url_launcher: ^6.0.9
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.1
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo/icon-512x512.png"
+  image_path_ios: "assets/images/logo/icon-512x512-square.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/logo/icon-foreground-512x512.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/i18n/
+    - assets/images/blog/
+    - assets/images/logo/
+    - assets/images/media/

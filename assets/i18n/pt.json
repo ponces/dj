@@ -1,0 +1,34 @@
+{  
+  "blogWidget": {
+    "articleButton": "Ler"
+  },
+  "homeWidget": {
+    "widgetTitle": "DJ - Somos Todos Nós",
+    "blogWidget": "Blog",
+    "bibleWidget": "Bíblia",
+    "mediaWidget": "Multimédia",
+    "infoWidget": "Info"
+  },
+  "infoWidget": {
+    "labelTitleSettings": "Preferências",
+    "labelSubtitleSettings": "Alterar preferências",
+    "labelTitleAbout": "Sobre",
+    "aboutDialogText": "Esta aplicação foi desenhada para o hub do Departamento da Juventude.\n\nDisponibilizado para si por"
+  },  
+  "mediaWidget": {
+    "moviesButton": "Trailer",
+    "musicsButton": "Ouvir",
+    "booksButton": "Info"
+  },
+  "settingsWidget": {
+    "widgetTitle": "Definições",
+    "appearanceSectionTitle": "Aparência",
+    "appThemeSettings": "Tema",
+    "optionSystem": "Sistema",
+    "optionLight": "Claro",
+    "optionDark": "Escuro",
+    "languageSettings": "Linguagem",
+    "optionEnglish": "Inglês",
+    "optionPortuguese": "Português"
+  }
+}
